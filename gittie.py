@@ -9,10 +9,14 @@ def add():
 
 
 def joke():
+    print()
     print("Knock, knock. Who's there!. Yo mama!")
 
 
 def shout():
-    print("FUCK THE POLICE COMING STRAIGHT FROM UNDERGROUND"
+    print("FUCK THE POLICE COMING STRAIGHT FROM UNDERGROUND")
 
+
+def dadf():
+    print("sdkfsadkf")
 #sdfsdfisdfosadfjsdkfjd
